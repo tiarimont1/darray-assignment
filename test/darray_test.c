@@ -1,3 +1,11 @@
+/* test/darray_test.c
+ * 
+ * Simple unit tests for the darray.h dynamic array library
+ *
+ * Copyright (C) 2024 Douglas Rumbaugh <dbrumbaugh@harrisburgu.edu>
+ *
+ * Distributed under the Modified BSD License.
+*/
 #include <assert.h>
 #include "darray.h"
 
